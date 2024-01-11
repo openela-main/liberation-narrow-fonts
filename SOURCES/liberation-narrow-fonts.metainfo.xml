@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>com.github.LiberationNarrow</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <project_license>Liberation</project_license>
+  <name>Liberation Narrow</name>
+  <summary>The Liberation Narrow Fonts are intended to be replacements for the Arial Narrow.</summary>
+  <description>
+    <p>
+		The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New. It is sponsored by Red Hat
+    </p>
+  </description>
+  <updatecontact>vishalvijayraghavan_at_gmail_dot_com</updatecontact>
+  <url type="homepage">https://github.com/liberationfonts/liberation-sans-narrow</url>
+  <provides>
+	<font>Liberation Narrow</font>	
+	<font>Liberation Narrow Bold</font>
+	<font>Liberation Narrow BoldItalic</font>
+	<font>Liberation Narrow Italic</font>
+  </provides>
+</component>
+
+
+
